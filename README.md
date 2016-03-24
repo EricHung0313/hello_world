@@ -1,4 +1,5 @@
 * Avro
 * Harrier
 * Hornet
-*test
+*Getting and cleaning data
+*Exploratory Data Analysis
